@@ -153,14 +153,13 @@
     "color": "",
     "todoke": [
       {
-        "201": {
-          "time": 8,
-          "status": 2,
-          "title": "Nghỉ có lương",
-          "reason": "111",
-          "time_from": "2021-04-08 14:00",
-          "time_to": "2021-04-09 14:00"
-        }
+        "time": 8,
+        "id": 201,
+        "status": 2,
+        "title": "Nghỉ có lương",
+        "reason": "111",
+        "time_from": "2021-04-08 14:00",
+        "time_to": "2021-04-09 14:00"
       }
     ],
     "overtime": [],
@@ -269,14 +268,22 @@
     "todoke": [],
     "overtime": [
       {
-        "9": {
-          "time": 7.5,
-          "status": 1,
-          "title": "Làm thêm ngày thường",
-          "reason": "22222",
-          "time_from": "2021-04-16 14:30",
-          "time_to": "2021-04-16 22:00"
-        }
+        "time": 2,
+        "id": 10,
+        "status": 1,
+        "title": "Làm thêm ngày thường",
+        "reason": "1111111",
+        "time_from": "2021-04-16 09:30",
+        "time_to": "2021-04-16 11:30"
+      },
+      {
+        "time": 7.5,
+        "id": 9,
+        "status": 1,
+        "title": "Làm thêm ngày thường",
+        "reason": "22222",
+        "time_from": "2021-04-16 14:30",
+        "time_to": "2021-04-16 22:00"
       }
     ],
     "time-check": "08:45 - 18:05"
@@ -331,14 +338,13 @@
     "color": "",
     "todoke": [
       {
-        "202": {
-          "time": 8,
-          "status": 1,
-          "title": "Nghỉ có lương",
-          "reason": "111",
-          "time_from": "2021-04-20 17:30",
-          "time_to": "2021-04-21 17:30"
-        }
+        "time": 8,
+        "id": 202,
+        "status": 1,
+        "title": "Nghỉ có lương",
+        "reason": "111",
+        "time_from": "2021-04-20 17:30",
+        "time_to": "2021-04-21 17:30"
       }
     ],
     "overtime": [],
