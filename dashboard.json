@@ -151,16 +151,18 @@
     "other_month": 0,
     "holiday_name": "",
     "color": "",
-    "todoke": {
-      "201": {
-        "time": 8,
-        "status": 2,
-        "title": "Nghỉ có lương",
-        "reason": "111",
-        "time_from": "2021-04-08 14:00",
-        "time_to": "2021-04-09 14:00"
+    "todoke": [
+      {
+        "201": {
+          "time": 8,
+          "status": 2,
+          "title": "Nghỉ có lương",
+          "reason": "111",
+          "time_from": "2021-04-08 14:00",
+          "time_to": "2021-04-09 14:00"
+        }
       }
-    },
+    ],
     "overtime": [],
     "time-check": "08:45 - 18:05"
   },
@@ -265,16 +267,18 @@
     "holiday_name": "",
     "color": "",
     "todoke": [],
-    "overtime": {
-      "9": {
-        "time": 7.5,
-        "status": 1,
-        "title": "Làm thêm ngày thường",
-        "reason": "22222",
-        "time_from": "2021-04-16 14:30",
-        "time_to": "2021-04-16 22:00"
+    "overtime": [
+      {
+        "9": {
+          "time": 7.5,
+          "status": 1,
+          "title": "Làm thêm ngày thường",
+          "reason": "22222",
+          "time_from": "2021-04-16 14:30",
+          "time_to": "2021-04-16 22:00"
+        }
       }
-    },
+    ],
     "time-check": "08:45 - 18:05"
   },
   {
@@ -325,16 +329,18 @@
     "other_month": 0,
     "holiday_name": "",
     "color": "",
-    "todoke": {
-      "202": {
-        "time": 8,
-        "status": 1,
-        "title": "Nghỉ có lương",
-        "reason": "111",
-        "time_from": "2021-04-20 17:30",
-        "time_to": "2021-04-21 17:30"
+    "todoke": [
+      {
+        "202": {
+          "time": 8,
+          "status": 1,
+          "title": "Nghỉ có lương",
+          "reason": "111",
+          "time_from": "2021-04-20 17:30",
+          "time_to": "2021-04-21 17:30"
+        }
       }
-    },
+    ],
     "overtime": [],
     "time-check": "08:45 - 18:05"
   },
