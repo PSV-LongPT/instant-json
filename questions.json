@@ -1,109 +1,95 @@
 {
-    "exam-id": 1,
-    "exam-name": "Đề 1",
-    "exam-questions": [
+    "category-id": 1,
+    "category-name": "Câu hỏi phòng chống dịch",
+    "category-questions":
+    [
         {
-            "group-id": 1,
-            "group-name": "Câu hỏi phòng chống dịch",
-            "group-questions":
-            [
+            "question-no": 1,
+            "question-text": "Theo quy định của Luật phòng, chống bệnh truyền nhiễm thì khái niệm bệnh truyền nhiễm nào sau đây là đúng:",
+            "media": "",
+            "difficulty": "easy",
+            "type": "boolean",
+            "answers": [
                 {
-                    "question-no": 1,
-                    "question": "Theo quy định của Luật phòng, chống bệnh truyền nhiễm thì khái niệm bệnh truyền nhiễm nào sau đây là đúng:",
-                    "media": "",
-                    "answers": [
-                        {
-                            "answer-no": "a",
-                            "answer": "Bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người."
-                        },
-                        {
-                            "answer-no": "b",
-                            "answer": "Bệnh lây truyền từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm."
-                        },
-                        {
-                            "answer-no": "c",
-                            "answer": "Bệnh lây truyền từ người hoặc từ động vật sang người."
-                        },
-                        {
-                            "answer-no": "d",
-                            "answer": "Bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm."
-                        },
-                    ],
-                    "correct": "d"
+                    "a": "Bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người."
                 },
                 {
-                    "question-no": 2,
-                    "question": "Theo nội dung công bố dịch COVID-19 tại Việt Nam của Thủ tướng Chính phủ tại Quyết định 447/QĐ-TTg ngày 01/4/2020, tác nhân (nguyên nhân) gây bệnh COVID-19 là gì?",
-                    "media": "",
-                    "answers": [
-                        {
-                            "answer-no": "a",
-                            "answer": "Vi rút (chủng mới của vi rút Corona)."
-                        },
-                        {
-                            "answer-no": "b",
-                            "answer": "Vi khuẩn."
-                        },
-                        {
-                            "answer-no": "c",
-                            "answer": "Ký sinh trùng."
-                        },
-                        {
-                            "answer-no": "d",
-                            "answer": "Nấm."
-                        },
-                    ],
-                    "correct": "a"
+                    "b": "Bệnh lây truyền từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm."
                 },
                 {
-                    "question-no": 3,
-                    "question": "Theo Quyết định 447/QĐ-TTg ngày 01/4/2020 của Thủ Tướng Chính phủ về việc công bố dịch COVID-19 tại Việt Nam, mức độ nguy hiểm của dịch bệnh COVID-19 như thế nào?",
-                    "media": "",
-                    "answers": [
-                        {
-                            "answer-no": "a",
-                            "answer": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ dịch tại Việt Nam."
-                        },
-                        {
-                            "answer-no": "b",
-                            "answer": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ dịch khu vực Đông Nam Á."
-                        },
-                        {
-                            "answer-no": "c",
-                            "answer": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ đại dịch châu Á."
-                        },
-                        {
-                            "answer-no": "d",
-                            "answer": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ đại dịch toàn cầu."
-                        },
-                    ],
-                    "correct": "d"
+                    "c": "Bệnh lây truyền từ người hoặc từ động vật sang người."
                 },
                 {
-                    "question-no": 4,
-                    "question": "Theo Quyết định 447/QĐ-TTg ngày 01/4/2020 của Thủ Tướng Chính phủ về việc công bố dịch COVID-19 tại Việt Nam, đường lây của dịch bệnh COVID-19 là đường nào?",
-                    "media": "",
-                    "answers": [
-                        {
-                            "answer-no": "a",
-                            "answer": "Lây truyền qua đường hô hấp từ người sang người."
-                        },
-                        {
-                            "answer-no": "b",
-                            "answer": "Lây truyền qua đường máu từ người sang người."
-                        },
-                        {
-                            "answer-no": "c",
-                            "answer": "Lây truyền qua đường tiêu hóa từ người sang người."
-                        },
-                        {
-                            "answer-no": "d",
-                            "answer": "Lây truyền qua đường hô hấp, đường máu và đường tiêu hóa từ người sang người."
-                        },
-                    ],
-                    "correct": "a"
+                    "d": "Bệnh lây truyền trực tiếp hoặc gián tiếp từ người hoặc từ động vật sang người do tác nhân gây bệnh truyền nhiễm.",
+                    "correct": true
                 },
             ]
-        }
+        },
+        {
+            "question-no": 2,
+            "question-text": "Theo nội dung công bố dịch COVID-19 tại Việt Nam của Thủ tướng Chính phủ tại Quyết định 447/QĐ-TTg ngày 01/4/2020, tác nhân (nguyên nhân) gây bệnh COVID-19 là gì?",
+            "difficulty": "easy",
+            "type": "boolean",
+            "media": "",
+            "answers": [
+                {
+                    "a": "Vi rút (chủng mới của vi rút Corona).",
+                    "correct": true
+                },
+                {
+                    "b": "Vi khuẩn."
+                },
+                {
+                    "c": "Ký sinh trùng."
+                },
+                {
+                    "d": "Nấm."
+                },
+            ]
+        },
+        {
+            "question-no": 3,
+            "question-text": "Theo Quyết định 447/QĐ-TTg ngày 01/4/2020 của Thủ Tướng Chính phủ về việc công bố dịch COVID-19 tại Việt Nam, mức độ nguy hiểm của dịch bệnh COVID-19 như thế nào?",
+            "difficulty": "easy",
+            "type": "boolean",
+            "media": "",
+            "answers": [
+                {
+                    "a": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ dịch tại Việt Nam."
+                },
+                {
+                    "b": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ dịch khu vực Đông Nam Á."
+                },
+                {
+                    "c": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ đại dịch châu Á."
+                },
+                {
+                    "d": "Bệnh truyền nhiễm nhóm A, nguy cơ ở mức độ đại dịch toàn cầu.",
+                    "correct": true
+                },
+            ]
+        },
+        {
+            "question-no": 4,
+            "question-text": "Theo Quyết định 447/QĐ-TTg ngày 01/4/2020 của Thủ Tướng Chính phủ về việc công bố dịch COVID-19 tại Việt Nam, đường lây của dịch bệnh COVID-19 là đường nào?",
+            "difficulty": "easy",
+            "type": "boolean",
+            "media": "",
+            "answers": [
+                {
+                    "a": "Lây truyền qua đường hô hấp từ người sang người.",
+                    "correct": true
+                },
+                {
+                    "b": "Lây truyền qua đường máu từ người sang người."
+                },
+                {
+                    "c": "Lây truyền qua đường tiêu hóa từ người sang người."
+                },
+                {
+                    "d": "Lây truyền qua đường hô hấp, đường máu và đường tiêu hóa từ người sang người."
+                },
+            ]
+        },
     ]
 }
