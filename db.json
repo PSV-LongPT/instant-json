@@ -9,7 +9,7 @@
             "title": "test tokushu 2",
             "slug": "tokushu2",
             "headerImage": {
-              "url": "/uploads/feature/header_image/36/263-1200x810.jpg"
+              "url": "https://images.folk-media.com/wp-content/uploads/2022/03/shinseikatu.jpg"
             },
             "description": "mô tả tokushu 2",
             "published": true,
@@ -28,7 +28,7 @@
             "title": "test tokushu",
             "slug": "tokushu",
             "headerImage": {
-              "url": "/uploads/feature/header_image/35/391-1040x1040.jpg"
+              "url": "https://images.folk-media.com/wp-content/uploads/2022/01/tokushu_banner-1.png"
             },
             "description": "đây là mô tả tokushu",
             "published": true,
@@ -47,7 +47,7 @@
             "title": "test fontend",
             "slug": "1234567",
             "headerImage": {
-              "url": "/uploads/feature/header_image/34/chrismas-1.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2021/11/chrismas-1.png"
             },
             "description": "クリスマスを楽しむアイデアを集めました。素敵なインテリアや雑貨、おしゃれなコーデなどたくさんご紹介します。ぜひ参考にしてみてください！",
             "published": true,
@@ -75,7 +75,7 @@
             "title": "gdfgfd",
             "slug": "46t",
             "headerImage": {
-              "url": "/uploads/feature/header_image/33/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2021/09/otona_jikan-1.png"
             },
             "description": "g",
             "published": false,
@@ -99,7 +99,7 @@
             "title": "bgcng",
             "slug": "ngjnghnj",
             "headerImage": {
-              "url": "/uploads/feature/header_image/32/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2022/03/SUMMER-_GIFT-1.png"
             },
             "description": "gfhfghgfh",
             "published": false,
@@ -123,7 +123,7 @@
             "title": "gfnfgj",
             "slug": "gjgjghjhgjhgj",
             "headerImage": {
-              "url": "/uploads/feature/header_image/31/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2021/06/tokushu25-3.png"
             },
             "description": "ghjghjhgjh",
             "published": false,
@@ -142,7 +142,7 @@
             "title": "hjghjg",
             "slug": "fjhfghgfhg",
             "headerImage": {
-              "url": "/uploads/feature/header_image/30/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2021/01/IMG_0192-1.png"
             },
             "description": "gjgjghjhgh",
             "published": true,
@@ -166,7 +166,7 @@
             "title": "jj",
             "slug": "jjjjjjj",
             "headerImage": {
-              "url": "/uploads/feature/header_image/29/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2021/01/IMG_0157.png"
             },
             "description": "jjjjj",
             "published": false,
@@ -185,7 +185,7 @@
             "title": "m,",
             "slug": "jjkj",
             "headerImage": {
-              "url": "/uploads/feature/header_image/28/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/09/IMG_8485.png"
             },
             "description": "jjj",
             "published": false,
@@ -204,7 +204,7 @@
             "title": "hgjhgjghj",
             "slug": "46",
             "headerImage": {
-              "url": "/uploads/feature/header_image/21/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/08/IMG_8439.png"
             },
             "description": "mnmnm",
             "published": true,
@@ -242,7 +242,7 @@
             "title": "jhjhgjhg",
             "slug": "99",
             "headerImage": {
-              "url": "/uploads/feature/header_image/19/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/06/IMG_8272.png"
             },
             "description": "jmjmj",
             "published": true,
@@ -261,7 +261,7 @@
             "title": "jgjgj",
             "slug": "00",
             "headerImage": {
-              "url": "/uploads/feature/header_image/18/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/12/IMG_8277.png"
             },
             "description": "ytuyt",
             "published": false,
@@ -280,7 +280,7 @@
             "title": "6utyyt",
             "slug": "9",
             "headerImage": {
-              "url": "/uploads/feature/header_image/17/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/03/2020spring_fashion.png"
             },
             "description": "uy",
             "published": true,
@@ -299,7 +299,7 @@
             "title": "yyy",
             "slug": "8",
             "headerImage": {
-              "url": "/uploads/feature/header_image/16/MicrosoftTeams-image.png"
+              "url": "https://images.folk-media.com/wp-content/uploads/2020/03/spring_event.png"
             },
             "description": "jmjmj",
             "published": true,
