@@ -1,0 +1,334 @@
+{
+  "features": [
+    {
+      "data": [
+        {
+          "id": "36",
+          "type": "feature",
+          "attributes": {
+            "title": "test tokushu 2",
+            "slug": "tokushu2",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/36/263-1200x810.jpg"
+            },
+            "description": "mô tả tokushu 2",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "35",
+          "type": "feature",
+          "attributes": {
+            "title": "test tokushu",
+            "slug": "tokushu",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/35/391-1040x1040.jpg"
+            },
+            "description": "đây là mô tả tokushu",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "34",
+          "type": "feature",
+          "attributes": {
+            "title": "test fontend",
+            "slug": "1234567",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/34/chrismas-1.png"
+            },
+            "description": "クリスマスを楽しむアイデアを集めました。素敵なインテリアや雑貨、おしゃれなコーデなどたくさんご紹介します。ぜひ参考にしてみてください！",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": [
+                {
+                  "id": "73",
+                  "type": "featureSection"
+                },
+                {
+                  "id": "74",
+                  "type": "featureSection"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "33",
+          "type": "feature",
+          "attributes": {
+            "title": "gdfgfd",
+            "slug": "46t",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/33/MicrosoftTeams-image.png"
+            },
+            "description": "g",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": [
+                {
+                  "id": "75",
+                  "type": "featureSection"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "32",
+          "type": "feature",
+          "attributes": {
+            "title": "bgcng",
+            "slug": "ngjnghnj",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/32/MicrosoftTeams-image.png"
+            },
+            "description": "gfhfghgfh",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": [
+                {
+                  "id": "53",
+                  "type": "featureSection"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "31",
+          "type": "feature",
+          "attributes": {
+            "title": "gfnfgj",
+            "slug": "gjgjghjhgjhgj",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/31/MicrosoftTeams-image.png"
+            },
+            "description": "ghjghjhgjh",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "30",
+          "type": "feature",
+          "attributes": {
+            "title": "hjghjg",
+            "slug": "fjhfghgfhg",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/30/MicrosoftTeams-image.png"
+            },
+            "description": "gjgjghjhgh",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": [
+                {
+                  "id": "56",
+                  "type": "featureSection"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "29",
+          "type": "feature",
+          "attributes": {
+            "title": "jj",
+            "slug": "jjjjjjj",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/29/MicrosoftTeams-image.png"
+            },
+            "description": "jjjjj",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "28",
+          "type": "feature",
+          "attributes": {
+            "title": "m,",
+            "slug": "jjkj",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/28/MicrosoftTeams-image.png"
+            },
+            "description": "jjj",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "21",
+          "type": "feature",
+          "attributes": {
+            "title": "hgjhgjghj",
+            "slug": "46",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/21/MicrosoftTeams-image.png"
+            },
+            "description": "mnmnm",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "20",
+          "type": "feature",
+          "attributes": {
+            "title": "ghjjjg",
+            "slug": "66",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/20/MicrosoftTeams-image.png"
+            },
+            "description": "uyt",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "19",
+          "type": "feature",
+          "attributes": {
+            "title": "jhjhgjhg",
+            "slug": "99",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/19/MicrosoftTeams-image.png"
+            },
+            "description": "jmjmj",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "18",
+          "type": "feature",
+          "attributes": {
+            "title": "jgjgj",
+            "slug": "00",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/18/MicrosoftTeams-image.png"
+            },
+            "description": "ytuyt",
+            "published": false,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "17",
+          "type": "feature",
+          "attributes": {
+            "title": "6utyyt",
+            "slug": "9",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/17/MicrosoftTeams-image.png"
+            },
+            "description": "uy",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        },
+        {
+          "id": "16",
+          "type": "feature",
+          "attributes": {
+            "title": "yyy",
+            "slug": "8",
+            "headerImage": {
+              "url": "/uploads/feature/header_image/16/MicrosoftTeams-image.png"
+            },
+            "description": "jmjmj",
+            "published": true,
+            "releasedAt": null
+          },
+          "relationships": {
+            "featureSections": {
+              "data": []
+            }
+          }
+        }
+      ],
+      "meta": {
+        "first": 1,
+        "last": 2,
+        "prev": null,
+        "next": 2,
+        "count": 19
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
